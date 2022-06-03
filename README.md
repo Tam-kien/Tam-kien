@@ -1,4 +1,6 @@
-### 👋 Hi, I’m @Tam-kien
+### 👋 Hi, I’m @Kien
+
+I am currently a CompSci student @ Carleton university. I'm currently interested in Web Automation 🕸️
 
 📩 if you have any questions, or just want to chat, please feel free to contact me at my [email](tamkienle2003@gmail.com)
 
